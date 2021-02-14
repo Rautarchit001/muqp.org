@@ -1,0 +1,42 @@
+{
+	"name": "Onion Search - Privacy Browser",
+	"short_name": "Onion Privacy",
+	"description": "Indian Best and worldwide Onion Privacy browser.",
+	"start_url": "https://onion.search.newsradarr.com",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#f5f5f5",
+	"theme_color": "#7002d1",
+	"icons": [
+		{
+			"src": "https://1.bp.blogspot.com/-7A9E368W8C4/YCkxN1ivPII/AAAAAAAAB7c/M29I4kuOAesn6w9yqVsDm4JNUUqcqk1AgCLcBGAsYHQ/s0/192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "https://1.bp.blogspot.com/-05f0eDxcf4U/YCkxOAgG5aI/AAAAAAAAB7g/McIojTrF1EM-ivD4gSP1qHvu9rsiK3tlgCLcBGAsYHQ/s320/512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "https://1.bp.blogspot.com/-7A9E368W8C4/YCkxN1ivPII/AAAAAAAAB7c/M29I4kuOAesn6w9yqVsDm4JNUUqcqk1AgCLcBGAsYHQ/s0/192.png",
+            "type": "image/png",
+			"sizes": "192x192",
+			"purpose": "maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-05f0eDxcf4U/YCkxOAgG5aI/AAAAAAAAB7g/McIojTrF1EM-ivD4gSP1qHvu9rsiK3tlgCLcBGAsYHQ/s320/512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+			"purpose": "maskable"
+        }
+	],
+	"author": {
+		"name": "Archit Raut",
+		"website": "https://onion.search.newsradarr.com",
+		"github": "https://onion.newsradarr.com",
+		"source-repo": "https://muquestionpaper.com"
+	},
+	"gcm_sender_id": "1037533142782",
+	"gcm_user_visible_only": true
+}
