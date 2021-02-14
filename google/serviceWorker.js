@@ -8,7 +8,7 @@ var files = [
   './',
   'https://onion.search.newsradarr.com', //SW treats query string as new request
   'https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700', //caching 3rd party content
-  './manifest.json'
+  'https://raw.githubusercontent.com/Rautarchit001/muqp.org/master/google/manifest.json'
 ];
 
 //Adding `install` event listener
